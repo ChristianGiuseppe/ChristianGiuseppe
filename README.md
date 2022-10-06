@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianGiuseppe
-- 👀 I am interested in video game programming and the gym
+- 👀 I am interested in videogame, programming and the gym
 - 🌱 I’m currently learning SwiftUI, Android Compose
 - 📫 How to reach me [with this link](https://www.linkedin.com/in/christian-giuseppe-nocerino-3307a712a/)
 
