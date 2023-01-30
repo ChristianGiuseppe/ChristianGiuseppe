@@ -10,9 +10,17 @@
 ChristianGiuseppe/ChristianGiuseppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src = "https://github-readme-stats.vercel.app/api?username=ChristianGiuseppe&show_icons=true&theme=radical">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGiuseppe&layout=compact&theme=theme">
+.container {
+ 
+}
+.container div {
+  
+}
 
+<div style=" display: table; width: 100%;">
+<div style="display: table-cell;"> <img src = "https://github-readme-stats.vercel.app/api?username=ChristianGiuseppe&show_icons=true&theme=radical"> </div>
+<divstyle="display: table-cell;"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGiuseppe&layout=compact&theme=theme"> </div>
+</div>
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
