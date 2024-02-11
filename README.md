@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ChristianGiuseppe
 - 👀 I am interested in videogame, programming and the gym
-- 🌱 I’m currently learning SwiftUI, Android Compose
+- 🌱 I’m currently learning SwiftUI, Android Compose and Vue.js
 - 📫 How to reach me [with this link](https://www.linkedin.com/in/christian-giuseppe-nocerino-3307a712a/)
 
 
